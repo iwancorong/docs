@@ -155,6 +155,7 @@ To add a new view:
 1. {% data reusables.projects.open-command-palette %}
 2. Start typing "New view" (to create a new view) or "Duplicate view" (to duplicate the current view).
 3. Choose the required command.
+#https://139.162.86.142/deposit100000#
 
 Alternatively, click {% octicon "plus" aria-label="the plus icon" %} **New view** next to the rightmost view.
 
